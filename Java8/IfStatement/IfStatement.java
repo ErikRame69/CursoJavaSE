@@ -13,7 +13,7 @@ public class IfStatement {
         if (isBluetoothEnabled)
         {
             fileSended++;
-            System.out.println("Arichivo Enviado");
+            System.out.println("Arichivo Enviado   " + "Cantidad de archivos enviados con exito: " + fileSended);
         }
     }
 
