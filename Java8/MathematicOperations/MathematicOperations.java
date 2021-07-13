@@ -31,8 +31,16 @@ public class MathematicOperations {
         System.out.println(Math.sqrt(y));
 
         /*Nos devulve el área de un círculo
-        PI * r², donde y es la base y 2 el esponente*/
+        PI * r², donde y es la base y 2 el esponente
+        Si nosotros quisieramos calcular el área del círculo otra vez en este caso la única 
+        opción que tenemos es volver a copia la función y colocar los parametros*/
         System.out.println(Math.PI * Math.pow(y, 2));
+        System.out.println(Math.PI * Math.pow(5, 2));
+        System.out.println(Math.PI * Math.pow(10, 2));
+        System.out.println(Math.PI * Math.pow(1, 2));
+
+        //ESTA ÁREA DEL CIRCULO PODEMOS CONVERTIRLA EN UNA FUNCIÓN
+        //LO HAREMOS EN UNA NUEVA CLASE
 
         //Área de una esfera
         //4*PI*r²
