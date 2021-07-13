@@ -1,4 +1,5 @@
-             //Upper Camel Case y el nombre de la clase
+package NamingJava;
+            //Upper Camel Case y el nombre de la clase
              // en este caso la clave es NaminaJava
 public class NamingJava {
     

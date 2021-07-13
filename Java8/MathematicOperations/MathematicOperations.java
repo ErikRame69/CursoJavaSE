@@ -1,3 +1,5 @@
+package MathematicOperations;
+
 public class MathematicOperations {
      public static void main(String[] args) {
          
