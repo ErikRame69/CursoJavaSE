@@ -23,12 +23,17 @@ public class Casting {
         el mismo principio encerramos el tipo de dato requerido entre parentesis*/
         int a = 30;
         int b = 12;
-
         System.out.println((double)a/b); 
 
+        //CAST
+        /*Ahora tenemos el siguiente caso en donde nosotros queremos dividir dos datos del tipo int y aunque c
+        sea un double nos generará un dato entereo en ese caso nosotros debemos de "forzar" que la operación
+        y el resultado sea de tipo double*/
         double c = (double) a/b;
         System.out.println(c);
 
+        // En este caso nosotros convertimos un tipo de dato entero a un cararcter
+        // El resultado es 49 por que asi se representa el 1 en ASCII
         char n = '1';
         int nI = n;
 
