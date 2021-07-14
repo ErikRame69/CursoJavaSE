@@ -18,7 +18,7 @@ Usamos:
 ### Algunas anotaciones del curso
 Durante el trascurso del curso trate de tomar apuntes muy específicos que me han servido de ayuda en casi de repasar algo que no tenga muy claro o que simplemente necesite recordar.
 Espero les sirvan como a mí. 
-Da click **[sobre este enlace]https://www.notion.so/Clases-del-Curso-de-Introducci-n-a-Java-SE-Standar-Edition-61546e3a4659496da948859cd344899a)** para ir a los apuntes.
+Da click **[sobre este enlace](https://www.notion.so/Clases-del-Curso-de-Introducci-n-a-Java-SE-Standar-Edition-61546e3a4659496da948859cd344899a)** para ir a los apuntes.
 
 ### Comandos Usados en el curso
 - pwd = para ver en qué ruta de nuestro sistema está posicionado el terminal
